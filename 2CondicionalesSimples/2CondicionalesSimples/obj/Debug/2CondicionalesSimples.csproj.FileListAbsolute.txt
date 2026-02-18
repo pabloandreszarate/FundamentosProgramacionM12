@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\2CondicionalesSimples\2CondicionalesSimples\bin\Debug\2CondicionalesSimples.exe.config
+C:\Users\B09S104est\Documents\2CondicionalesSimples\2CondicionalesSimples\bin\Debug\2CondicionalesSimples.exe
+C:\Users\B09S104est\Documents\2CondicionalesSimples\2CondicionalesSimples\bin\Debug\2CondicionalesSimples.pdb
+C:\Users\B09S104est\Documents\2CondicionalesSimples\2CondicionalesSimples\obj\Debug\2CondicionalesSimples.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\2CondicionalesSimples\2CondicionalesSimples\obj\Debug\2CondicionalesSimples.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\2CondicionalesSimples\2CondicionalesSimples\obj\Debug\2CondicionalesSimples.exe
+C:\Users\B09S104est\Documents\2CondicionalesSimples\2CondicionalesSimples\obj\Debug\2CondicionalesSimples.pdb
